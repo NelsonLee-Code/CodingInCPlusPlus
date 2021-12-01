@@ -30,4 +30,4 @@ When a player wins, we also output a WinCode based on how the game was won, as s
 </div>
 <br>
 
-If you like to learn more about my this TicTacToe Game, feel free to email me at nelson.nx.lee@gmail.com. 
+If you like to learn more about this TicTacToe Game, feel free to email me at nelson.nx.lee@gmail.com. 
