@@ -16,7 +16,6 @@ This Shape with Dynamically Allocated Objects and Arrays Project, hereafter refe
   </i> 
 </div>
 <br>
-<br>
 <p align="center">
   <img width="700" alt="Screen Shot 2021-12-01 at 4 42 32 PM" src="https://user-images.githubusercontent.com/85120900/144318689-cb71a368-05cf-4cc8-b853-c06ae9ca85da.png">
 </p>
