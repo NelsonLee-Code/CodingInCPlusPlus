@@ -64,7 +64,7 @@ This Shape with Linked Lists Project uses, creates, and maniuplates linked lists
 - Inside the ShapeList class, we create a linked list of ShapeNodes containing head and numerous ShapeNodes
 - Inside the GroupNode class, we create a node in a linked list of GroupNodes with name, myShapeList, and next
 - Inside the ShapeNode class, we create a node in a linked list of ShapeNodes with the shape myShape (points to a Shape object) and next
-- Inside the Shape class, we hold thhe properties of a shape, such as its name, type, location, and size
+- Inside the Shape class, we hold the properties of a shape, such as its name, type, location, and size
 
 <p align="center">
   <img width="700" alt="Screen Shot 2021-12-01 at 4 59 41 PM" src="https://user-images.githubusercontent.com/85120900/144320971-9a5567fc-b1fa-48ce-ab40-1d8fde3d1130.png">
